@@ -33,3 +33,6 @@ powerbi – Contains PBIX dashboard file
 ## Outome
 ![Power](https://github.com/user-attachments/assets/6e74108c-3715-4d05-acbd-e6cd709f3951)
 
+## 🔗 Connect with Me
+- [LinkedIn](www.linkedin.com/in/sodiqazeez)
+
