@@ -9,6 +9,7 @@ By analyzing this data with SQL, we can uncovered valuable insights that inform 
 
 ## Tools Used
 SQL (For Data Cleaning and Calculation)
+
 PowerBi ( For Dashboard and Visual analysis)
 
 ## Key Insights
