@@ -16,7 +16,7 @@ PowerBi ( For Dashboard and Visual analysis)
 
 Total Revenue: 43M, Profit: 12M, Spend: 31M, Impressions: 2B
 
-Top campaigns like instagram_tier1 show high ROI; others need optimization
+Top campaigns like youtube_blogger show high ROI; others need optimization
 
 Fridays and Saturdays have the highest order volume
 
