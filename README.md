@@ -16,7 +16,6 @@ PowerBi ( For Dashboard and Visual analysis)
 Total Revenue: 43M, Profit: 12M, Spend: 31M, Impressions: 2B
 
 Top campaigns like instagram_tier1 show high ROI; others need optimization
-![page](https://github.com/user-attachments/assets/25c9093a-268e-4765-9d32-177e53414e85)
 
 Fridays and Saturdays have the highest order volume
 
@@ -27,6 +26,7 @@ Dashboard allows filtering by spend range, category, and campaign name for deepe
 ## Project Structure
 
 sql – Contains SQL scripts for data preparation
+![page](https://github.com/user-attachments/assets/25c9093a-268e-4765-9d32-177e53414e85)
 
 powerbi – Contains PBIX dashboard file
 
